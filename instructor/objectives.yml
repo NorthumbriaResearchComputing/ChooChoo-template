@@ -22,7 +22,8 @@ sections:
   objectives:
   - links: []
     name: create a list
-    questions: []
+    questions:
+    - https://northumbriaresearchcomputing.github.io/ChooChoo-template/questions/question_bank#dgngn
     tutorials: []
   - links: []
     name: add to a list
