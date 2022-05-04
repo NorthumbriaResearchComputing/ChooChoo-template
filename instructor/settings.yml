@@ -11,6 +11,5 @@ project_title: Choochoo template repository
 questions: true
 students:
 - lucydot
-- choochoo-bot
 votes_required: 3
 web_address: https://lucydot.github.io/ChooChoo-template
