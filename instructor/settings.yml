@@ -1,5 +1,6 @@
 admins:
 - lucydot
+- choochoo-bot
 choochoo_branch: main
 gh-pages: true
 gh-pages_branch: gh-pages
@@ -10,5 +11,6 @@ project_title: Choochoo template repository
 questions: true
 students:
 - lucydot
+- choochoo-bot
 votes_required: 3
 web_address: https://lucydot.github.io/ChooChoo-template
