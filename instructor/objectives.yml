@@ -3,7 +3,8 @@ sections:
   - https://nu-cem.github.io/CompPhys/2021/08/02/01-Running_Python
   name: Running Python
   objectives:
-  - links: []
+  - links:
+    - https://github.com
     name: open and save a Jupyter Notebook
     questions: []
     tutorials: []
