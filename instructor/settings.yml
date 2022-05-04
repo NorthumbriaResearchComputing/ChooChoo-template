@@ -1,6 +1,5 @@
 admins:
 - lucydot
-- choochoo-bot
 choochoo_branch: main
 gh-pages: true
 gh-pages_branch: gh-pages
