@@ -24,7 +24,8 @@ sections:
     tutorials: []
   - links: []
     name: add to a list
-    questions: []
+    questions:
+    - https://northumbriaresearchcomputing.github.io/ChooChoo-template/questions/question_bank#dgngn
     tutorials:
     - https://lucydot.github.io/ChooChoo-template/tutorials/lists
   questions: []
